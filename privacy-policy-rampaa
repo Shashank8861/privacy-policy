@@ -1,83 +1,126 @@
-Privacy Policy
-Effective date: 25 Feb 2026
+# Privacy Policy
+
+**Effective date:** 19 May 2026
 
 This Privacy Policy describes how Kreedae ("we", "us", or "our") collects, uses, and shares information when you use our mobile application (the "App").
+
 By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-1. Information We Collect
+## 1. Information We Collect
 
-1.1 Information You Provide Directly
-Depending on the features you use, we may collect:
-Contact information: such as your email address if you contact us for support or feedback.
-Other information: any information you choose to provide when communicating with us.
-We do not require you to create an account or provide personal information just to download or use the basic features of the App.
+### 1.1 Information You Provide
 
-1.2 Automatically Collected Information
-When you use the App, certain information may be collected automatically, including:
-Device information: device model, operating system version, unique device identifiers, language, and country.
-Usage data: in-app pages visited, game sessions, gameplay statistics, features used, and other interaction data.
-Log data: IP address, app version, timestamps, crash reports, and diagnostic data.
-This information is typically collected in an anonymized or aggregated form and does not directly identify you.
+When you create an account or use certain features, we may collect:
 
-2. Use of Information
-We use the information we collect for purposes such as:
-Providing and improving the App: ensuring the App functions correctly and improving performance and gameplay.
-Analytics: understanding how users interact with the App so we can improve features and user experience.
-Support and communication: responding to your questions, feedback, or support requests.
-Security and fraud prevention: protecting the App and our users from abuse and misuse.
+- **Account information:** email address, display name, and profile photo (when provided through Google Sign-In, Sign in with Apple, or email registration).
+- **Gameplay and social data:** game statistics, scores, friends list, room participation, and in-game display names used in multiplayer sessions.
+- **Support communications:** information you send when you contact us for help or feedback.
 
-3. Third‑Party Services
-The App may use third‑party services that collect, monitor, and analyze information to help us provide and improve the App. These services may have access to some of your information as described in their own privacy policies.
-Examples of such services may include (depending on your build and configuration):
-Google Play Services
-Google AdMob (for advertisements)
-Google Analytics for Firebase / Firebase Analytics
-Firebase Crashlytics (for crash reporting)
-We encourage you to review the privacy policies of these third parties:
-Google: https://policies.google.com/privacy
-If you do not wish to share data with these services, you may limit data collection by adjusting your device or operating system settings where available (for example, resetting your advertising ID or using "Limit Ad Tracking" / "Opt out of Ads Personalization").
+You must sign in to use most features of the App. Some data is also stored locally on your device (for example, player profile and energy settings).
 
-4. Advertising
-If the App displays ads:
-Ad networks may use cookies, mobile identifiers, and similar technologies to show ads they believe may be more relevant to you based on your activity within the App and other apps.
-This may involve interest‑based advertising or personalized ads, depending on your settings and applicable law in your region.
-You can usually opt out or limit personalized ads by:
-Adjusting ad settings on your device (e.g., "Opt out of Ads Personalization" on Android).
-Using privacy settings provided by the ad network, where available.
+### 1.2 Information Collected Automatically
 
-5. Children’s Privacy
-The App is not intended for children under the age of 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children under this age.
-If you believe that a child under the applicable age has provided us with personal information, please contact us using the details below and we will take steps to delete such information.
+When you use the App, we and our service providers may automatically collect:
 
-6. Data Retention
-We retain information only for as long as necessary to:
-Provide and improve the App.
-Comply with our legal obligations.
-Resolve disputes and enforce our agreements.
-When information is no longer needed, we will delete it or anonymize it.
+- **Device information:** device model, operating system version, language, and general device settings.
+- **Identifiers:** app instance identifiers and, where permitted by your device settings, advertising identifiers used by ad partners.
+- **Usage data:** games played, features used, session activity, and interaction with ads.
+- **Log and diagnostic data:** IP address, app version, timestamps, and error information needed to operate and secure the service.
 
-7. Data Security
-We take reasonable technical and organizational measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+### 1.3 Device Permissions
 
-8. Your Rights and Choices
-Depending on your jurisdiction, you may have certain rights regarding your personal information, including:
-Access: to request a copy of the information we hold about you.
-Correction: to request that inaccurate or incomplete information be corrected.
-Deletion: to request that your information be deleted, subject to our legal obligations.
-Restriction or objection: to restrict or object to certain processing of your information.
-To exercise any of these rights, please contact us using the details provided below. We may need to verify your identity before fulfilling your request.
-You may also:
-Adjust privacy and permission settings on your device (e.g., access to storage, notifications).
-Limit or reset your advertising ID in the device settings.
+The App may request access to:
 
-9. International Transfers
-Your information may be transferred to and processed on servers located outside your country or region, where data protection laws may differ. By using the App, you consent to such transfers, subject to applicable law.
+- **Camera:** to scan QR codes when joining game rooms. Camera images are processed on your device for scanning; we do not use the camera for any other purpose.
 
-10. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. When we do, we will revise the "Effective date" at the top of this page. We recommend that you review this Privacy Policy periodically for any changes.
-Your continued use of the App after changes are posted constitutes your acceptance of the updated Privacy Policy.
+The App may use device motion sensors (for example, accelerometer) for certain game mechanics. This data is processed on your device and is not used to identify you.
 
-11. Contact Us
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:
-Ezigboe
+We do not access your photo library, microphone, contacts, or precise location.
+
+## 2. How We Use Information
+
+We use the information we collect to:
+
+- Provide, operate, and maintain the App (including account sign-in, multiplayer games, rooms, and leaderboards).
+- Sync your profile, stats, and progress across devices when you are signed in.
+- Display advertisements (on supported platforms).
+- Improve performance, fix bugs, and develop new features.
+- Prevent fraud, abuse, and security incidents.
+- Respond to support requests and communicate with you about the App.
+
+## 3. Third-Party Services
+
+The App uses third-party services that process data on our behalf. These providers collect information as described in their own privacy policies. Depending on your platform and features, these may include:
+
+| Service | Purpose |
+|--------|---------|
+| **Google Firebase** (Authentication, Cloud Firestore, Realtime Database, Cloud Functions) | Account sign-in, user profiles, multiplayer game state, and backend logic |
+| **Google Sign-In** | Optional sign-in with your Google account |
+| **Sign in with Apple** | Optional sign-in with your Apple ID (on Apple devices) |
+| **Google AdMob** | Displaying advertisements |
+| **Google Play Billing** | Processing subscriptions on Android (when available) |
+
+We do **not** currently use Firebase Analytics or Firebase Crashlytics in this App.
+
+Third-party privacy policies:
+
+- Google: https://policies.google.com/privacy  
+- Apple: https://www.apple.com/legal/privacy/
+
+## 4. Advertising
+
+The App may show ads provided by Google AdMob. Ad partners may use cookies, mobile advertising identifiers, and similar technologies to deliver and measure ads, including interest-based advertising where allowed by law and your device settings.
+
+You can limit personalized advertising by:
+
+- **iOS:** Settings → Privacy & Security → Tracking (and/or Apple Advertising settings).
+- **Android:** Settings → Google → Ads → Opt out of Ads Personalization.
+
+## 5. In-App Purchases and Subscriptions
+
+On **Android**, the App may offer optional premium subscriptions (for example, ad-free play and extra benefits) through Google Play. Payment is processed by Google; we do not receive your full payment card details.
+
+On **iOS**, premium subscriptions may not be available in all versions of the App. When purchases are not offered on your platform, no payment information is collected by us for subscriptions.
+
+Purchase history and subscription status may be verified through our backend (Firebase Cloud Functions) to grant entitlements.
+
+## 6. Data Storage and Retention
+
+- Account and gameplay data linked to your sign-in are stored in Google Firebase (cloud servers, which may be located outside your country).
+- Some data is stored locally on your device using on-device storage.
+- We retain information as long as needed to provide the App, comply with legal obligations, resolve disputes, and enforce our agreements. You may request deletion of your account data by contacting us.
+
+## 7. Children’s Privacy
+
+The App is not directed at children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children under this age. If you believe a child has provided us personal information, contact us and we will take steps to delete it.
+
+## 8. Data Security
+
+We use reasonable technical and organizational measures to protect your information. No method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+## 9. Your Rights and Choices
+
+Depending on your location, you may have rights to access, correct, delete, or restrict processing of your personal information, or to object to certain processing.
+
+To exercise these rights, contact us using the details below. We may need to verify your identity. You can also:
+
+- Sign out of your account in the App.
+- Delete your account or request deletion by emailing us.
+- Adjust camera and advertising settings in your device system settings.
+
+If you are in the European Economic Area, United Kingdom, or certain other regions, you may also have the right to lodge a complaint with your local data protection authority.
+
+## 10. International Transfers
+
+Your information may be processed on servers located outside your country, including in the United States and other countries where our service providers operate. By using the App, you understand that your information may be transferred to jurisdictions that may have different data protection laws than your own.
+
+## 11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will revise the "Effective date" at the top when we do. Continued use of the App after changes are posted constitutes acceptance of the updated policy. We encourage you to review this page periodically.
+
+## 12. Contact Us
+
+If you have questions about this Privacy Policy or our data practices, contact us:
+
+**Ezigboe**  
 Email: info@ezigboe.com
