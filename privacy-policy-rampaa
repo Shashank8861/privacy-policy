@@ -57,32 +57,35 @@ The App uses third-party services that process data on our behalf. These provide
 | **Google Firebase** (Authentication, Cloud Firestore, Realtime Database, Cloud Functions) | Account sign-in, user profiles, multiplayer game state, and backend logic |
 | **Google Sign-In** | Optional sign-in with your Google account |
 | **Sign in with Apple** | Optional sign-in with your Apple ID (on Apple devices) |
-| **Google AdMob** | Displaying advertisements |
-| **Google Play Billing** | Processing subscriptions on Android (when available) |
+| **Google AdMob** | Displaying advertisements in the Android and iOS apps |
+| **Google AdSense** | Displaying advertisements on the web version of the App |
+| **Google Play Billing** | Processing subscriptions on Android |
+| **Apple In-App Purchase** | Processing subscriptions on iOS |
 
 We do **not** currently use Firebase Analytics or Firebase Crashlytics in this App.
 
 Third-party privacy policies:
 
-- Google: https://policies.google.com/privacy  
+- Google: https://policies.google.com/privacy
 - Apple: https://www.apple.com/legal/privacy/
 
 ## 4. Advertising
 
-The App may show ads provided by Google AdMob. Ad partners may use cookies, mobile advertising identifiers, and similar technologies to deliver and measure ads, including interest-based advertising where allowed by law and your device settings.
+The App may show ads provided by **Google AdMob** (mobile apps) and **Google AdSense** (web browser). Ad partners may use cookies, mobile advertising identifiers, and similar technologies to deliver and measure ads, including interest-based advertising where allowed by law and your device or browser settings.
+
+On the **web version**, ads may appear in a full-screen overlay between game sessions. You can dismiss these ads using the on-screen **Continue** or **Close** control.
 
 You can limit personalized advertising by:
 
+- **Web:** Your browser's privacy or cookie settings, and [Google's Ads Settings](https://adssettings.google.com).
 - **iOS:** Settings → Privacy & Security → Tracking (and/or Apple Advertising settings).
 - **Android:** Settings → Google → Ads → Opt out of Ads Personalization.
 
 ## 5. In-App Purchases and Subscriptions
 
-On **Android**, the App may offer optional premium subscriptions (for example, ad-free play and extra benefits) through Google Play. Payment is processed by Google; we do not receive your full payment card details.
+On **Android**, the App offers optional premium subscriptions (for example, ad-free play and extra benefits) through Google Play. On **iOS**, the same premium subscriptions are available through the App Store. Payment is processed by Google or Apple; we do not receive your full payment card details.
 
-On **iOS**, premium subscriptions may not be available in all versions of the App. When purchases are not offered on your platform, no payment information is collected by us for subscriptions.
-
-Purchase history and subscription status may be verified through our backend (Firebase Cloud Functions) to grant entitlements.
+Purchase history and subscription status may be verified through our backend (Firebase Cloud Functions) to grant entitlements across devices when you use the same account.
 
 ## 6. Data Storage and Retention
 
@@ -90,7 +93,7 @@ Purchase history and subscription status may be verified through our backend (Fi
 - Some data is stored locally on your device using on-device storage.
 - We retain information as long as needed to provide the App, comply with legal obligations, resolve disputes, and enforce our agreements. You may request deletion of your account data by contacting us.
 
-## 7. Children’s Privacy
+## 7. Children's Privacy
 
 The App is not directed at children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children under this age. If you believe a child has provided us personal information, contact us and we will take steps to delete it.
 
@@ -105,8 +108,11 @@ Depending on your location, you may have rights to access, correct, delete, or r
 To exercise these rights, contact us using the details below. We may need to verify your identity. You can also:
 
 - Sign out of your account in the App.
-- Delete your account or request deletion by emailing us.
+- **Delete your account** in the App: open **Profile** → **Delete account**, confirm by typing DELETE. This permanently removes your account and associated profile data from our systems.
+- For help with deletion, contact us at info@ezigboe.com.
 - Adjust camera and advertising settings in your device system settings.
+
+**Subscriptions:** Premium subscriptions purchased through the App Store or Google Play must be cancelled separately in your Apple ID or Google Play account settings; deleting your app account does not automatically cancel an active subscription.
 
 If you are in the European Economic Area, United Kingdom, or certain other regions, you may also have the right to lodge a complaint with your local data protection authority.
 
@@ -122,5 +128,5 @@ We may update this Privacy Policy from time to time. We will revise the "Effecti
 
 If you have questions about this Privacy Policy or our data practices, contact us:
 
-**Ezigboe**  
+**Ezigboe**
 Email: info@ezigboe.com
