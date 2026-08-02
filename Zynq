@@ -1,0 +1,144 @@
+# Privacy Policy
+
+**Last updated:** July 2026
+
+**Operator:** [YOUR_COMPANY_NAME] ("we", "us", "our")  
+**App:** Zynq ("the App")  
+**Contact:** [YOUR_SUPPORT_EMAIL]
+
+This Privacy Policy explains how we collect, use, share, and protect information when you use the Zynq mobile application and related services.
+
+By using Zynq, you agree to this Privacy Policy. If you do not agree, please do not use the App.
+
+---
+
+## 1. Who this policy applies to
+
+Zynq is intended **only for users aged 18 and older**. We do not knowingly collect personal information from anyone under 18. If you believe a minor has created an account, contact us at [YOUR_SUPPORT_EMAIL] and we will delete it.
+
+---
+
+## 2. Information we collect
+
+### 2.1 Information you provide
+
+- **Account information:** phone number and/or email address (via Firebase Authentication), display name, date of birth, gender, bio, photos, interests, dating preferences, and discovery mode settings.
+- **Profile & verification:** profile photos you upload; verification photos/videos submitted for identity review (if you use verification).
+- **Communications:** messages you send to matches, gift messages, and other in-app content you create.
+- **Events:** name and registration details when you sign up for real-world events; payment is processed by Razorpay (we do not store full card/UPI details).
+- **Support:** information you send when contacting support or reporting another user.
+
+### 2.2 Information collected automatically
+
+- **Location:** approximate location (with your permission) to show distance to other users and improve discovery. You can deny or revoke location permission in device settings; some features may not work without it.
+- **Usage & activity:** swipes, likes, passes, matches, gifts sent/received, event registrations, mode preferences (e.g. Blind Date, Meetup, House Party), and similar in-app activity stored on our servers.
+- **Device & technical data:** device type, operating system, app version, Firebase Cloud Messaging (FCM) token for push notifications, and diagnostic/analytics data via Firebase.
+- **Advertising (free users only):** if banner ads are enabled, Google AdMob may collect advertising identifiers and usage data per [Google's Privacy Policy](https://policies.google.com/privacy). Paid subscribers do not see in-app banner ads.
+
+### 2.3 Purchases
+
+- **Subscriptions & coins:** Gold and Platinum subscriptions and virtual coin packs are sold through **Google Play** and/or the **Apple App Store**. We receive purchase confirmations and product identifiers; payment card details are handled by Google or Apple, not by us.
+- **Event tickets:** payments for real-world events are processed by **Razorpay**. We receive order status and limited payment metadata; Razorpay processes payment credentials under their own privacy policy.
+
+---
+
+## 3. How we use your information
+
+We use information to:
+
+- Create and manage your account and profile
+- Show you other users and calculate approximate distance
+- Operate matching, chat, gifts, special modes, and events
+- Process subscriptions, virtual currency, and event registrations
+- Send push notifications about matches, messages, and events (respecting your in-app notification preferences)
+- Review verification submissions and user reports; enforce our Terms and Community Guidelines
+- Improve safety, prevent fraud and abuse, and comply with law
+- Analyze aggregated usage to improve the App
+
+We **do not** sell your personal information to third parties.
+
+---
+
+## 4. How we share information
+
+We may share information with:
+
+| Recipient | Purpose |
+|-----------|---------|
+| **Other Zynq users** | Profile information you choose to display (photos, name, age, bio, interests, etc.) is visible to other users per your settings and the feature you use (e.g. Blind Date may hide photos until reveal). |
+| **Google Firebase** | Authentication, database (Firestore), real-time chat (Realtime Database), file storage, cloud functions, analytics, and push messaging. [Firebase Privacy](https://firebase.google.com/support/privacy) |
+| **Google Play / Apple App Store** | In-app purchases and subscriptions |
+| **Razorpay** | Event ticket payments |
+| **Google AdMob** | Advertising to free-tier users (when enabled) |
+| **Law enforcement / legal** | When required by law or to protect safety and rights |
+
+We do not share your exact live GPS coordinates with other users; we use location to derive approximate distance and general area for matching.
+
+---
+
+## 5. Virtual currency and gifts
+
+Zynq offers **virtual coins** used to send in-app gifts. Coins and gift perks (badges, boosts, trials, etc.) have **no cash value**, are **non-transferable**, and **cannot be exchanged for money** or withdrawn. This is described further in our [Terms of Service](terms-of-service.md).
+
+---
+
+## 6. Data retention
+
+We retain your information while your account is active. If you **delete your account** (Settings → Delete account), we delete or anonymize associated data within a reasonable period, including profile data, photos, verification media, chat data, gift records, and authentication credentials, subject to:
+
+- Backups that may persist for a limited time
+- Data we must retain for legal, security, or fraud-prevention purposes
+- Anonymized or aggregated data that cannot identify you
+
+---
+
+## 7. Your choices and rights
+
+Depending on your location, you may have rights to access, correct, delete, or restrict processing of your personal data.
+
+**In the App you can:**
+
+- Edit your profile (Profile → Edit profile)
+- Control notification preferences (Settings → Notifications)
+- Delete your account permanently (Settings → Delete account)
+- Revoke location, camera, or photo library permissions in device settings
+
+**To exercise other privacy requests,** email [YOUR_SUPPORT_EMAIL] from the address linked to your account. We may need to verify your identity before processing requests.
+
+---
+
+## 8. Security
+
+We use industry-standard measures including encrypted connections (HTTPS/TLS), Firebase security rules, and access controls. No method of transmission or storage is 100% secure; use Zynq at your own risk and report suspicious activity to us.
+
+---
+
+## 9. International transfers
+
+Your data may be processed on servers operated by Google (Firebase), including outside India. By using Zynq, you consent to such processing where permitted by law.
+
+---
+
+## 10. Third-party links
+
+The App may link to external sites (e.g. support pages, subscription management). We are not responsible for their privacy practices.
+
+---
+
+## 11. Changes to this policy
+
+We may update this Privacy Policy from time to time. We will post the new version at this URL and update the "Last updated" date. Continued use after changes means you accept the updated policy. Material changes may also be communicated in-app where appropriate.
+
+---
+
+## 12. Contact us
+
+**[YOUR_COMPANY_NAME]**  
+Email: [YOUR_SUPPORT_EMAIL]  
+Website: [YOUR_WEBSITE] (if applicable)
+
+For privacy-related questions, account deletion, or reports about data handling, contact us at the email above.
+
+---
+
+*Related documents: [Terms of Service](terms-of-service.md) · [Community Guidelines](community-guidelines.md) · [Support](support.md)*
