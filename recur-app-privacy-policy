@@ -1,0 +1,77 @@
+# Privacy Policy
+
+**App:** Recurr  
+**Effective date:** October 2, 2026
+
+Recurr is a subscription tracker that runs on your device. This policy explains what the app stores, what it does not collect, and how you can remove your information.
+
+## Summary
+
+Recurr does not require an account. It does not use cloud sync, analytics, advertising, or in-app purchases. The subscriptions, settings, reminders, and photos you add stay on your device. The developer does not receive them.
+
+## Information stored on your device
+
+When you use Recurr, the app saves what you enter in a local database on that device:
+
+- Subscription name, price, currency, and billing cycle
+- Start date, optional end date, trial flag, and first renewal date
+- Category, status (active, paused, or cancelled), and reminder timing
+- Optional note and optional payment label you type
+- Theme and default currency
+- A copy of a photo, if you choose one as an icon
+
+Photos are copied into the app’s private storage so the icon still works if the original changes. Recurr does not upload those photos.
+
+Renewal reminders are scheduled on the device with the local notification system. The app reads the device time zone so those reminders fire at the right local time. That time zone is not sent to the developer.
+
+## Information the developer does not collect
+
+Recurr does not collect, transmit, or sell:
+
+- Account or contact details
+- Location
+- Contacts, calendars, or browsing history
+- Advertising identifiers or analytics
+- Payment card numbers or bank credentials
+
+The app does not connect to your bank or to the services you track. Prices and dates are whatever you type in.
+
+If you write a card nickname or similar text in the payment field, that text stays in the local database with the rest of your subscriptions. Recurr has no payment processor.
+
+## Permissions
+
+Recurr asks for access only when a feature needs it.
+
+- **Notifications.** Used to show renewal reminders you turn on. Reminders work offline. You can deny permission in system settings.
+- **Photos.** Used only if you choose a photo as a subscription icon. The app does not scan your library.
+
+You can keep using Recurr if you deny either permission. Reminders or custom photo icons will be unavailable until you allow them.
+
+## Third parties
+
+Recurr does not include advertising or analytics services. It does not share your subscriptions with third parties.
+
+Apple or Google may process app downloads, crash logs, or purchase records under their own policies when you get the app from the App Store or Google Play. Recurr does not add to that.
+
+## Children
+
+Recurr is a general-audience tool for tracking your own subscriptions. It is not directed at children under 13, and it does not knowingly collect personal information from children.
+
+## Retention and deletion
+
+Your data remains on the device until you delete it.
+
+- Delete one subscription in the app to remove that record and its saved icon photo.
+- Uninstall Recurr to remove the local database, settings, scheduled reminders, and saved icon photos from that device.
+
+The developer has no server copy to delete, because none is created.
+
+Backups made by iOS or Android may include the app’s local data. Those backups are controlled by your device account and the platform’s settings, not by Recurr.
+
+## Changes
+
+If this policy changes, the updated version will be posted at this same address with a new effective date. Continued use of Recurr after the update means you accept the revised policy.
+
+## Contact
+
+Questions about this policy: **info@ezigboe.com**
