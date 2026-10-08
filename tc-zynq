@@ -1,10 +1,10 @@
 # Terms of Service
 
-**Last updated:** Oct 2026
+**Last updated:** 8 October 2026
 
-**Operator:** Ezigboe ("we", "us", "our")  
-**App:** Zynq ("the App", "Service")  
-**Contact:** ezigboeobgize@gmail.com
+**Operator:** Ezigboe ("we", "us", "our")
+**App:** Zynq ("the App", "Service")
+**Contact:** info@ezigboe.com
 
 These Terms of Service ("Terms") govern your access to and use of Zynq. By creating an account or using the App, you agree to these Terms and our [Privacy Policy](privacy-policy.md) and [Community Guidelines](community-guidelines.md).
 
@@ -27,8 +27,8 @@ You represent that all registration information is accurate and that you will ke
 
 ## 2. Your account
 
-- You are responsible for maintaining the security of your account and device.
-- You may sign in using phone number, email, or other methods we support.
+- You are responsible for the security of your account and device.
+- You may sign in with email or with Google, and with any other method we offer in the App.
 - You must not share your account or impersonate another person.
 - We may suspend or terminate accounts that violate these Terms or pose a safety risk.
 
@@ -36,17 +36,20 @@ You represent that all registration information is accurate and that you will ke
 
 ## 3. The Service
 
-Zynq provides dating and social discovery features, including but not limited to:
+Zynq provides dating and social features, including:
 
-- Profile creation and discovery (swiping/liking)
-- Matching and real-time chat
-- Virtual gifts and in-app perks
-- Premium subscriptions (Gold, Platinum)
-- Special modes (e.g. Blind Date, Friendly Meetup, House Party)
-- Real-world events (ticketed via Razorpay where available)
-- Profile verification and safety reporting tools
+- Profiles and discovery
+- Matching and chat
+- Communities
+- Optional prompt games
+- Digital gifts
+- Gold and Platinum subscriptions
+- Modes we make available, such as Blind Date and House Party
+- Events we host
+- Profile verification, reporting, blocking, trusted contacts, and safety alerts
+- A support inbox
 
-We may add, change, or remove features at any time without liability.
+We may add, change, or remove features at any time.
 
 ---
 
@@ -54,78 +57,85 @@ We may add, change, or remove features at any time without liability.
 
 You agree **not** to:
 
-- Harass, threaten, abuse, stalk, or harm other users
-- Post false, misleading, or impersonating profiles
-- Upload illegal, obscene, hateful, or non-consensual intimate content
+- Harass, threaten, abuse, stalk, or harm other users, including in communities and at events
+- Post false, misleading, or impersonating profiles, or a salary band you know is false
+- Upload illegal, obscene, hateful, or non-consensual intimate content, including in voice notes and images
+- Use panic or date-share tools to harass, track, or deceive anyone
 - Solicit money, run scams, or promote commercial services without permission
 - Spam, automate interactions, or scrape data from the App
 - Attempt to hack, reverse engineer, or disrupt the Service
 - Use the App for any unlawful purpose
 
-See our [Community Guidelines](community-guidelines.md) for more detail. We may investigate reports and take action including warnings, removal of content, or permanent bans.
+See our [Community Guidelines](community-guidelines.md). We may investigate reports and issue warnings, remove content, or ban accounts.
 
 ---
 
 ## 5. User content
 
-You retain ownership of content you submit (photos, messages, bio, etc.). By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to host, display, reproduce, and distribute that content **solely to operate and improve Zynq** (e.g. showing your profile to other users, delivering messages).
+You retain ownership of content you submit, including photos, voice, video, messages, and community posts. By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to host, display, reproduce, and distribute that content **solely to operate and improve Zynq**.
 
-You are solely responsible for your content. We do not guarantee that other users' content is accurate or safe.
+You are responsible for your content. We do not guarantee that other users' content is accurate or safe.
 
----
+**Rephrase** produces a suggestion only. You are responsible for any text you choose to publish.
 
-## 6. Virtual currency (coins) and gifts
-
-- Zynq offers **virtual coins** purchasable through Google Play or the App Store.
-- Coins are used to send **virtual gifts** and related in-app features.
-- Coins and gifts are **digital consumables** with **no real-world monetary value**.
-- Coins and gifts are **non-refundable** except where required by applicable store policies or law.
-- Coins and gifts **cannot be sold, transferred, or redeemed for cash**, gift cards, or other consideration.
-- Gift recipients may receive in-app perks (e.g. profile boost, badge, trial access). Perks are digital only and expire per the rules shown in the App.
-- We may modify coin pricing, gift catalog, or perk values at any time.
+**Behavior ratings** are opinions from other users. A profile tag based on those ratings is not a statement of fact by Ezigboe, and we do not guarantee that it is accurate or complete.
 
 ---
 
-## 7. Subscriptions (Gold & Platinum)
+## 6. Gift bundles
 
-- Gold and Platinum are **auto-renewing subscriptions** billed through Google Play or the App Store unless cancelled.
-- Prices, features, and billing periods are shown at purchase and may vary by region.
-- **Cancellation:** manage or cancel in your Google Play or Apple ID subscription settings. Deleting the App does not cancel your subscription.
-- **Refunds** for subscriptions follow Google Play or Apple policies; contact the store for billing disputes.
-- Features included in each tier are described in the App and may change over time.
-- If your subscription expires, you lose paid-tier benefits but your account and free-tier access may continue.
-
----
-
-## 8. Real-world events
-
-- Some events are real-world gatherings; tickets may be sold via **Razorpay** (not Google Play billing).
-- Event details, pricing, capacity, and eligibility rules are shown per event.
-- Attendance is at your own risk. We are not responsible for conduct of other attendees, venues, or third parties.
-- Refunds for events, if any, are subject to the event's stated policy and applicable law.
+- Zynq sells **consumable gift bundles** through Google Play or the App Store. There is no virtual currency and no coin wallet.
+- A completed purchase adds the gifts in that bundle to your in-app stock. Stock is used to send gifts to other users.
+- The recipient may receive experience points. Gifts do not grant cash, boosts, or transferable value.
+- You may send a limited number of gifts to the same person per day, as shown in the App.
+- Gifts, stock, and experience points are digital, have **no real-world monetary value**, and **cannot be sold, transferred, or redeemed for cash** or other consideration.
+- Purchases are **non-refundable** except where the store's policy or the law requires a refund. Billing disputes go to Google Play or Apple, not to us.
+- We may change bundle contents, prices, the daily send limit, or experience values. Prices shown in the store at the time of purchase control.
 
 ---
 
-## 9. Safety and offline meetings
+## 7. Subscriptions (Gold and Platinum)
 
-Zynq is a platform to meet people. **We do not conduct background checks** on users (except optional verification review we may offer). You are solely responsible for your interactions online and offline.
+- Gold and Platinum are **auto-renewing subscriptions** billed by Google Play or the App Store until you cancel.
+- Price, features, and billing period are shown at purchase and may vary by region.
+- **Cancellation:** manage or cancel in Google Play or Apple ID subscription settings. Deleting the App does not cancel the subscription.
+- **Refunds** follow the store's policy.
+- Features in each tier are described in the App and may change.
+- When a subscription expires, paid benefits end. Your account and free features may continue.
 
-- Meet in public places, tell someone where you are going, and trust your instincts.
-- Report suspicious or harmful behaviour in-app or to [YOUR_SUPPORT_EMAIL].
+---
 
-We are not liable for user conduct on or off the platform.
+## 8. Real-world events and house parties
+
+- Events we host may be real-world gatherings. Registration is free unless a specific event says otherwise, and capacity may be limited.
+- House parties are organized by users. Only eligible members can host, as described in the App.
+- Attendance is at your own risk. We are not responsible for other attendees, hosts, or venues.
+
+---
+
+## 9. Safety tools and offline meetings
+
+Safety tools are an aid. They are **not** an emergency service, not a substitute for local emergency numbers, and not a guarantee that a trusted contact will see or act on an alert.
+
+- Trusted contacts must also use Zynq. We notify those contacts in the App. We do not send SMS as the safety channel.
+- A panic alert or date share can include your precise location for the length of that session.
+- Location and delivery depend on your device, permissions, network, and the other person's app. We do not warrant that a location is accurate or that an alert arrives.
+- We do not conduct criminal background checks. Optional verification is a review of media you submit, not a guarantee of identity or character.
+- You are responsible for your online and offline interactions. Meet in public, tell someone where you are going, and contact local emergency services if you are in danger.
+
+We are not liable for the conduct of users on or off the platform.
 
 ---
 
 ## 10. Verification
 
-Optional verification helps users show authenticity. Submission of verification media does not guarantee approval. We may reject or revoke verification at our discretion. Verification photos are handled per our [Privacy Policy](privacy-policy.md).
+Optional verification lets you submit media for review. Submission does not guarantee approval. We may reject or revoke verification. Verification media is handled under our [Privacy Policy](privacy-policy.md).
 
 ---
 
 ## 11. Intellectual property
 
-Zynq, its branding, design, and software are owned by [YOUR_COMPANY_NAME] or its licensors. You may not copy, modify, or use our trademarks without permission.
+Zynq, its branding, design, and software are owned by Ezigboe or its licensors. You may not copy, modify, or use our trademarks without permission.
 
 ---
 
@@ -138,22 +148,24 @@ We do not warrant that:
 - You will find a match or relationship
 - The Service will be uninterrupted or error-free
 - Other users are who they claim to be
+- Safety alerts or locations will be delivered or accurate
+- Profile tags or compatibility information will be accurate
 
 ---
 
 ## 13. Limitation of liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, [YOUR_COMPANY_NAME] AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING FROM YOUR USE OF ZYNQ.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, EZIGBOE AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING FROM YOUR USE OF ZYNQ.
 
 OUR TOTAL LIABILITY FOR ANY CLAIM ARISING FROM THESE TERMS OR THE SERVICE SHALL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US IN THE 12 MONTHS BEFORE THE CLAIM, OR (B) INR 5,000.
 
-Some jurisdictions do not allow certain limitations; in those cases, our liability is limited to the fullest extent permitted by law.
+Some jurisdictions do not allow certain limitations. In those cases our liability is limited to the fullest extent the law allows.
 
 ---
 
 ## 14. Indemnity
 
-You agree to indemnify and hold harmless [YOUR_COMPANY_NAME] from claims, damages, and expenses (including reasonable legal fees) arising from your use of the Service, your content, or your violation of these Terms or any law.
+You agree to indemnify and hold harmless Ezigboe from claims, damages, and expenses (including reasonable legal fees) arising from your use of the Service, your content, or your violation of these Terms or any law.
 
 ---
 
@@ -161,27 +173,27 @@ You agree to indemnify and hold harmless [YOUR_COMPANY_NAME] from claims, damage
 
 You may stop using Zynq at any time and delete your account in Settings.
 
-We may suspend or terminate your access immediately, without notice, for violation of these Terms, legal requirements, or risk to users or the Service.
+We may suspend or terminate your access immediately, without notice, for a violation of these Terms, a legal requirement, or a risk to users or the Service.
 
-Sections that by nature should survive (e.g. disclaimers, limitation of liability, indemnity) survive termination.
+Sections that should survive by their nature, including disclaimers, limitation of liability, and indemnity, survive termination.
 
 ---
 
 ## 16. Governing law
 
-These Terms are governed by the laws of **India**, without regard to conflict-of-law principles. Courts in **[YOUR_CITY, YOUR_STATE], India** shall have exclusive jurisdiction, unless mandatory consumer protection laws in your country require otherwise.
+These Terms are governed by the laws of **India**, without regard to conflict-of-law rules. Courts in **Bengaluru, Karnataka, India** have exclusive jurisdiction, unless mandatory consumer-protection law in your country requires otherwise.
 
 ---
 
-## 17. Changes to Terms
+## 17. Changes to these Terms
 
-We may update these Terms. We will post the revised version at this URL with a new "Last updated" date. Continued use after changes constitutes acceptance. If you disagree, stop using the App and delete your account.
+We may update these Terms. We will post the revised version at this URL with a new "Last updated" date. Continued use after the change is acceptance. If you disagree, stop using the App and delete your account.
 
 ---
 
 ## 18. Contact
 
-**Ezigboe**  
+**Ezigboe**
 Email: info@ezigboe.com
 
 ---
