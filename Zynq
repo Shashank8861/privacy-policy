@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**Last updated:** July 2026
+**Last updated:** 8 October 2026
 
-**Operator:** Ezigboe ("we", "us", "our")  
-**App:** Zynq ("the App")  
+**Operator:** Ezigboe ("we", "us", "our")
+**App:** Zynq ("the App")
 **Contact:** info@ezigboe.com
 
 This Privacy Policy explains how we collect, use, share, and protect information when you use the Zynq mobile application and related services.
@@ -14,7 +14,7 @@ By using Zynq, you agree to this Privacy Policy. If you do not agree, please do 
 
 ## 1. Who this policy applies to
 
-Zynq is intended **only for users aged 18 and older**. We do not knowingly collect personal information from anyone under 18. If you believe a minor has created an account, contact us at [YOUR_SUPPORT_EMAIL] and we will delete it.
+Zynq is intended **only for users aged 18 and older**. We do not knowingly collect personal information from anyone under 18. If you believe a minor has created an account, contact us at info@ezigboe.com and we will delete it.
 
 ---
 
@@ -22,23 +22,37 @@ Zynq is intended **only for users aged 18 and older**. We do not knowingly colle
 
 ### 2.1 Information you provide
 
-- **Account information:** phone number and/or email address (via Firebase Authentication), display name, date of birth, gender, bio, photos, interests, dating preferences, and discovery mode settings.
-- **Profile & verification:** profile photos you upload; verification photos/videos submitted for identity review (if you use verification).
-- **Communications:** messages you send to matches, gift messages, and other in-app content you create.
-- **Events:** name and registration details when you sign up for real-world events; payment is processed by Razorpay (we do not store full card/UPI details).
-- **Support:** information you send when contacting support or reporting another user.
+- **Account:** email address and password, or the name and email address Google shares when you sign in with Google; display name, date of birth, gender, bio, photos, interests, dating preferences, and discovery settings.
+- **Profile:** photos you upload; optional voice-prompt recordings; optional profile video; an optional, unverified salary band you choose from a list; optional prompt-game answers, and whether you choose to show those answers on your profile.
+- **Verification:** photos or video you submit for identity review, if you use verification.
+- **Messages:** messages you send to matches, including text and gifts; messages you post in communities, including text, images, and voice notes.
+- **Safety:** Zynq user IDs of trusted contacts you add; details of a date you choose to share (place and time) when both people have opted in; the fact that you started a panic alert or a date-share session.
+- **Reputation:** behavior ratings you submit about someone you have interacted with, and ratings others submit about you. We turn those ratings into a profile tag that can be shown on a profile.
+- **Events and house parties:** registration details, and content you post in a house-party context.
+- **Support:** information you send in a support ticket or a user report.
 
 ### 2.2 Information collected automatically
 
-- **Location:** approximate location (with your permission) to show distance to other users and improve discovery. You can deny or revoke location permission in device settings; some features may not work without it.
-- **Usage & activity:** swipes, likes, passes, matches, gifts sent/received, event registrations, mode preferences (e.g. Blind Date, Meetup, House Party), and similar in-app activity stored on our servers.
-- **Device & technical data:** device type, operating system, app version, Firebase Cloud Messaging (FCM) token for push notifications, and diagnostic/analytics data via Firebase.
-- **Advertising (free users only):** if banner ads are enabled, Google AdMob may collect advertising identifiers and usage data per [Google's Privacy Policy](https://policies.google.com/privacy). Paid subscribers do not see in-app banner ads.
+- **Approximate location,** if you allow it: we use it to show a coarse distance label (how far away someone is) and to improve discovery. Other users see that label, not your exact coordinates, for ordinary discovery.
+- **Precise location,** only while a safety session you start is active and only if you have allowed location access: latitude and longitude, and the time of that reading. We share those coordinates with the trusted contacts you chose, as described in section 4.
+- **Chat activity:** message timing and reply length, used to show priority marks and activity summaries. You can control whether chat activity is visible, where the App offers that setting.
+- **Usage:** swipes, likes, passes, matches, gifts sent and received, event and party activity, community membership, and similar in-app actions stored on our servers.
+- **Device and technical data:** device type, operating system, app version, Firebase Cloud Messaging token for push notifications, and diagnostic and analytics data via Firebase.
 
-### 2.3 Purchases
+### 2.3 Microphone, camera, and photos
 
-- **Subscriptions & coins:** Gold and Platinum subscriptions and virtual coin packs are sold through **Google Play** and/or the **Apple App Store**. We receive purchase confirmations and product identifiers; payment card details are handled by Google or Apple, not by us.
-- **Event tickets:** payments for real-world events are processed by **Razorpay**. We receive order status and limited payment metadata; Razorpay processes payment credentials under their own privacy policy.
+- **Microphone:** used only when you record a voice prompt or a voice note. We store the recording you choose to send or save.
+- **Camera and photos:** used for profile photos, verification media, images you send, and QR check-in at events we host.
+
+You can deny or revoke these permissions in device settings. Features that need them will not work without them.
+
+### 2.4 Purchases
+
+Gold and Platinum subscriptions, and consumable gift bundles, are sold through **Google Play** and, where offered, the **Apple App Store**. We receive the product identifier, purchase token or receipt, and confirmation of the purchase. We do not receive your payment card number. There is no coin wallet and no virtual currency.
+
+### 2.5 Rephrase
+
+If you use Rephrase, the draft text and the tone you select are sent to **Google Gemini** to generate a suggested rewrite. The suggestion is not saved to your profile or message until you accept it. Do not submit anything in a draft that you are not willing to send to that service.
 
 ---
 
@@ -47,48 +61,51 @@ Zynq is intended **only for users aged 18 and older**. We do not knowingly colle
 We use information to:
 
 - Create and manage your account and profile
-- Show you other users and calculate approximate distance
-- Operate matching, chat, gifts, special modes, and events
-- Process subscriptions, virtual currency, and event registrations
-- Send push notifications about matches, messages, and events (respecting your in-app notification preferences)
-- Review verification submissions and user reports; enforce our Terms and Community Guidelines
+- Show you other users and a coarse distance label
+- Operate matching, chat, communities, prompt games, gifts, subscriptions, modes, house parties, and events
+- Deliver safety alerts and date details to the trusted contacts you selected
+- Calculate profile tags from behavior ratings
+- Send push notifications about matches, messages, gifts, safety alerts, parties, and events, according to your notification settings
+- Validate purchases and add the corresponding gift stock to your account
+- Review verification submissions, support tickets, and user reports, and enforce our Terms and Community Guidelines
 - Improve safety, prevent fraud and abuse, and comply with law
 - Analyze aggregated usage to improve the App
 
-We **do not** sell your personal information to third parties.
+We **do not** sell your personal information.
 
 ---
 
 ## 4. How we share information
 
-We may share information with:
+| Recipient | What we share and why |
+|-----------|------------------------|
+| **Other Zynq users** | Profile fields you choose to display, such as photos, name, age, bio, interests, voice prompts, salary band, game answers you chose to show, and your profile tag. Blind Date may hide photos until reveal. They see a coarse distance label, not your exact GPS, in discovery. |
+| **Community members** | Messages, images, and voice notes you post in a community you join, and your membership. |
+| **Trusted contacts you add** | During a safety session you start: your name, the kind of alert (panic or date share), precise latitude and longitude while the session is active, the time of that location, and date details when a date share is allowed. This is limited to trusted contacts who also have a Zynq account. |
+| **Google Firebase** | Authentication, Firestore, Realtime Database, file storage, Cloud Functions, analytics, and push messaging. [Firebase Privacy](https://firebase.google.com/support/privacy) |
+| **Google (Sign-In and Gemini)** | Sign-in credentials you use with Google; draft text you submit to Rephrase. |
+| **Google Play / Apple App Store** | Purchase tokens and product identifiers for subscriptions and gift bundles. |
+| **Law enforcement or other legal recipients** | When required by law, or to protect the safety and rights of users or the public. |
 
-| Recipient | Purpose |
-|-----------|---------|
-| **Other Zynq users** | Profile information you choose to display (photos, name, age, bio, interests, etc.) is visible to other users per your settings and the feature you use (e.g. Blind Date may hide photos until reveal). |
-| **Google Firebase** | Authentication, database (Firestore), real-time chat (Realtime Database), file storage, cloud functions, analytics, and push messaging. [Firebase Privacy](https://firebase.google.com/support/privacy) |
-| **Google Play / Apple App Store** | In-app purchases and subscriptions |
-| **Razorpay** | Event ticket payments |
-| **Google AdMob** | Advertising to free-tier users (when enabled) |
-| **Law enforcement / legal** | When required by law or to protect safety and rights |
-
-We do not share your exact live GPS coordinates with other users; we use location to derive approximate distance and general area for matching.
+We do not show your exact live GPS on discovery cards. We do share precise coordinates with your chosen trusted contacts for the length of a safety session you start.
 
 ---
 
-## 5. Virtual currency and gifts
+## 5. Gifts
 
-Zynq offers **virtual coins** used to send in-app gifts. Coins and gift perks (badges, boosts, trials, etc.) have **no cash value**, are **non-transferable**, and **cannot be exchanged for money** or withdrawn. This is described further in our [Terms of Service](terms-of-service.md).
+Gift bundles are digital items sold through the app stores. A purchase adds gift stock to your account. Sending a gift can award experience points to the recipient. Gifts, stock, and experience points have **no cash value**, are **not a currency**, cannot be transferred or withdrawn, and cannot be exchanged for money. This is described further in our [Terms of Service](terms-of-service.md).
 
 ---
 
 ## 6. Data retention
 
-We retain your information while your account is active. If you **delete your account** (Settings → Delete account), we delete or anonymize associated data within a reasonable period, including profile data, photos, verification media, chat data, gift records, and authentication credentials, subject to:
+We retain your information while your account is active. If you **delete your account** (Settings → Delete account), we delete or anonymize associated data within a reasonable period, including profile data, photos, voice and video, verification media, chats, community posts, gift records, safety sessions, support tickets, and authentication credentials, subject to:
 
 - Backups that may persist for a limited time
 - Data we must retain for legal, security, or fraud-prevention purposes
 - Anonymized or aggregated data that cannot identify you
+
+Safety-session locations are kept for the life of that session and for a limited period afterward so we can investigate abuse of the feature.
 
 ---
 
@@ -98,45 +115,46 @@ Depending on your location, you may have rights to access, correct, delete, or r
 
 **In the App you can:**
 
-- Edit your profile (Profile → Edit profile)
-- Control notification preferences (Settings → Notifications)
-- Delete your account permanently (Settings → Delete account)
-- Revoke location, camera, or photo library permissions in device settings
+- Edit your profile, including salary band, voice prompts, and which game answers are visible
+- Control notification preferences
+- Add or remove trusted contacts
+- Delete your account permanently
+- Revoke location, camera, microphone, notification, or photo permissions in device settings
 
-**To exercise other privacy requests,** email [YOUR_SUPPORT_EMAIL] from the address linked to your account. We may need to verify your identity before processing requests.
+**To exercise other privacy requests,** email info@ezigboe.com from the address linked to your account. We may need to verify your identity before processing the request.
 
 ---
 
 ## 8. Security
 
-We use industry-standard measures including encrypted connections (HTTPS/TLS), Firebase security rules, and access controls. No method of transmission or storage is 100% secure; use Zynq at your own risk and report suspicious activity to us.
+We use encrypted connections (HTTPS/TLS), Firebase security rules, and access controls. No method of transmission or storage is completely secure. Report suspicious activity to info@ezigboe.com.
 
 ---
 
 ## 9. International transfers
 
-Your data may be processed on servers operated by Google (Firebase), including outside India. By using Zynq, you consent to such processing where permitted by law.
+Your data may be processed on servers operated by Google, including outside India. By using Zynq, you consent to that processing where the law allows it.
 
 ---
 
 ## 10. Third-party links
 
-The App may link to external sites (e.g. support pages, subscription management). We are not responsible for their privacy practices.
+The App may link to external sites, including subscription management in the store. We are not responsible for their privacy practices.
 
 ---
 
 ## 11. Changes to this policy
 
-We may update this Privacy Policy from time to time. We will post the new version at this URL and update the "Last updated" date. Continued use after changes means you accept the updated policy. Material changes may also be communicated in-app where appropriate.
+We may update this Privacy Policy from time to time. We will post the new version at this URL and update the "Last updated" date. Continued use after changes means you accept the updated policy. Material changes may also be communicated in the App.
 
 ---
 
 ## 12. Contact us
 
-**Ezigboe**  
+**Ezigboe**
 Email: info@ezigboe.com
 
-For privacy-related questions, account deletion, or reports about data handling, contact us at the email above.
+For privacy questions, account deletion, or reports about data handling, contact us at that address.
 
 ---
 
